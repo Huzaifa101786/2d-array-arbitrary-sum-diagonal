@@ -1,0 +1,8 @@
+D:\Intern\Lab4_t2\Lab4_t2\bin\Debug\Lab4_t2.exe.config
+D:\Intern\Lab4_t2\Lab4_t2\bin\Debug\Lab4_t2.exe
+D:\Intern\Lab4_t2\Lab4_t2\bin\Debug\Lab4_t2.pdb
+D:\Intern\Lab4_t2\Lab4_t2\obj\Debug\Lab4_t2.csproj.AssemblyReference.cache
+D:\Intern\Lab4_t2\Lab4_t2\obj\Debug\Lab4_t2.csproj.SuggestedBindingRedirects.cache
+D:\Intern\Lab4_t2\Lab4_t2\obj\Debug\Lab4_t2.csproj.CoreCompileInputs.cache
+D:\Intern\Lab4_t2\Lab4_t2\obj\Debug\Lab4_t2.exe
+D:\Intern\Lab4_t2\Lab4_t2\obj\Debug\Lab4_t2.pdb
